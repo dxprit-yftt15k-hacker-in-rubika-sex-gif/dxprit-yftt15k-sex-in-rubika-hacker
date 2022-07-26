@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>/yftt15k_fil.rubika</title>
+
+
+
+
+
+ 
+
+  
+
+    </head>
+    <body background="https://www.uplooder.net/img/image/72/e29beccfa98fa29881b2aacd99b8a265/f.jpg">
+
+
+<audio autoplay>
+ <source src="https://www.uplooder.net/files/a42241f633567d51d0f0da08cd8708e6/n13.m4a.mp3.html" type="audio/mpeg">
+</audio>
+
+
+
+          <video controls autoplay loop class="n_13">
+            <source src="https://www.uplooder.net/files/8b37479df238afd75b624ea02f98a344/n.mp4.html" type="video/mp4">
+           </video>
+    </body>
+</html>
